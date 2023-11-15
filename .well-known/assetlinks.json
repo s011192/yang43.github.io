@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.megabank.mobilebank",
+    "sha256_cert_fingerprints":
+    ["50:AA:F0:CB:81:14:31:2C:EA:8C:5F:A2:FE:09:58:F6:BC:28:5D:F0:6B:C9:02:53:F5:8C:1E:09:B9:B9:DB:CC"]
+  }
+}]
